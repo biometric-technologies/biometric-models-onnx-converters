@@ -33,4 +33,4 @@ License: not yet specified. The repository has no license file. The FaceNet weig
 
 ## Contact
 
-info@iriscan.net, https://www.iriscan.com
+info@iriscan.com, https://www.iriscan.com
